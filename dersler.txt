@@ -1,0 +1,5 @@
+Ders=0,Linner Cebir,lineer1,6,odevler{0,1,}
+Ders=1,BP1,bp1-123,6,odevler{2,}
+Ders=2,Fizik,fiz16-42,7,odevler{}
+Ders=3,Calculus 1,123456,6,odevler{3,}
+Ders=4,BP2,123456,9,odevler{}

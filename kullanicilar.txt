@@ -1,0 +1,11 @@
+Ogrenci=0,okinay1,123456,Onur Kınay,EEM,dersler{0,1,3,}
+Ogrenci=1,furkan1,123456,Furkan Bolat,EEM,dersler{0,1,3,}
+Ogrenci=2,ahmet1,123456,Ahmet Halit Coşkun,EEM,dersler{3,}
+Ogrenci=3,biri,123456,Tarık K.,BM,dersler{2,}
+Ogrenci=4,bme22,123456,Recep H.,BME,dersler{3,}
+Ogrenci=5,cme2,123456,Berkecan L.,CME,dersler{}
+Ogretmen=6,hoca1,123456,Mehmet Kaya,Mühendislik
+Ogretmen=7,hoca2,123456,Ahmet Çalışkan,Mimarlık
+Ogretmen=8,hoca3,123456,Merve Ekol,Mühendislik
+Ogretmen=9,hoca4,123456,Rabia Polat,Mühendislik
+Ogretmen=10,hoca5,123456,Kadir Rizeli,Mimarlık
